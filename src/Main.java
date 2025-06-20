@@ -95,6 +95,7 @@ public class Main{
         PartTimeEmployee emp6=new PartTimeEmployee("Sia",6,5,9);
         PartTimeEmployee emp7=new PartTimeEmployee("Mia",7,6,8);
         PartTimeEmployee emp8=new PartTimeEmployee("Pia",8,5,10);
+        PartTimeEmployee emp9=new PartTimeEmployee("Alix",4,5,10);
 
         payrollSystem.addEmployee(emp1);
         payrollSystem.addEmployee(emp2);
@@ -104,6 +105,7 @@ public class Main{
         payrollSystem.addEmployee(emp6);
         payrollSystem.addEmployee(emp7);
         payrollSystem.addEmployee(emp8);
+        payrollSystem.addEmployee(emp9);
         System.out.println("Initial Employee Details:");
 
         payrollSystem.displayEmployees();
