@@ -67,7 +67,7 @@ java Main
 
 ---
 
-## 📷 Screenshots (Optional)
+## 📷 Screenshots
 
 ---
 
